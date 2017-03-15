@@ -1,4 +1,0 @@
-Windows 10 Home
-c 2016 Microsoft Corporation. All rights reserved.
-Intel(R) Core(TM) i5-4200M CPU @2.50GHz 2.50GHz
-(RAM)4.00GB 64bit Operating System x64
